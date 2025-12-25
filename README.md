@@ -1,19 +1,19 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Nilvi here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>Welcome! A place where I build things, figure things out, and learn along the way.</h1>
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">I build software, enjoy that “it finally works” moment, and love fixing things while learning along the way. </div>
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
 * Frontend and Backend Web Development
+* Cloud & Deployment
+* AI & Machine Learning
+* Automation & Workflow Optimization
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
@@ -27,34 +27,32 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Nilvi Shah'
 		current_work = 'Writing code'
 		hobbies = [
 				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Watching Kdrama',
+				'Reading Novels'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Vancouver_Canada()
+		return Florida_USA()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
+		MasterAI()
+		BuildScalableWebApps()
 		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Diving deeper into **AI and Web Development !!
+ * Working on 🔭 building **scalable web apps** and improving 🌱 skills in **backend systems and cloud deployment**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+  - :octocat: Always exploring new tech and learning cool things 🚀 
+  - If you have a fun idea or project, let's collaborate! 😎 
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
- 
+![Nilvi's github stats](https://github-readme-stats.vercel.app/api?username=nilvishah&show_icons=true&hide=[%22issues%22])
