@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-nilvishah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilvishah)](https://www.linkedin.com/in/nilvishah) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilvishah16@gmail.com)](mailto:nilvishah16@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+[![Linkedin Badge](https://img.shields.io/badge/-nilvishah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilvishah)](https://www.linkedin.com/in/nilvishah) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilvishah16@gmail.com)](mailto:nilvishah16@gmail.com) [![Portfolio](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://nilvi-shah-portfolio.vercel.app)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilvishah" alt="nilvishah" /> </p>
 
 <div style="text-align: right">I build software, enjoy that “it finally works” moment, and love fixing things while learning along the way. </div>
