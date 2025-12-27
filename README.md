@@ -43,7 +43,6 @@
 		MasterAI()
 		BuildScalableWebApps()
 		FinishMyNovel()
-	
  ```
  
 ## Current Works
