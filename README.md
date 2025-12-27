@@ -43,7 +43,6 @@
 		MasterAI()
 		BuildScalableWebApps()
 		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
