@@ -52,4 +52,3 @@
 ## Other Stuff
   - :octocat: Always exploring new tech and learning cool things 🚀 
   - If you have a fun idea or project, let's collaborate! 😎 
-
