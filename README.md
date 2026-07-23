@@ -42,7 +42,7 @@
 	def Ambitions():
 		MasterAI()
 		BuildScalableWebApps()
-		FinishMyNovel()
+		FinishMyNovel('The Silent Patient')
  ```
  
 ## Current Works
