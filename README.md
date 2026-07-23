@@ -30,13 +30,13 @@
  	user = 'Nilvi Shah'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
+				'Painting',
 				'Watching Kdrama',
 				'Reading Novels'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
+	def getState():
 		return Florida_USA()
 	
 	def Ambitions():
